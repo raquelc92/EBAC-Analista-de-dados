@@ -2,6 +2,7 @@
 Atividades realizadas durante o Curso de Analista de Dados na EBAC.
 
 👩‍🎓 CONTEÚDO (45 módulos)
+
 1.Python
 
 2.Análise de Dados
