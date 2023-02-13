@@ -34,78 +34,78 @@ Atividades realizadas durante o Curso de Analista de Dados na EBAC.
  
  - [x] Python: Módulos & Pacotes
  
- - [] Python: Tratamento de Erros
+ - [ ] Python: Tratamento de Erros
  
- - [] Python: Scripting
+ - [ ] Python: Scripting
  
- - [] Coleta de Dados I
+ - [ ] Coleta de Dados I
  
- - [] Coleta de Dados II
+ - [ ] Coleta de Dados II
  
- - [] Data Wrangling I
+ - [ ] Data Wrangling I
  
- - [] Data Wrangling II
+ - [ ] Data Wrangling II
  
- - [] Visualização de dados I
+ - [ ] Visualização de dados I
  
- - [] Visualização de dados II
+ - [ ] Visualização de dados II
  
- - [] 1º Projeto: Análise Exploratória de Dados em Python I
+ - [ ] 1º Projeto: Análise Exploratória de Dados em Python I
  
- - [] 1º Projeto: Análise Exploratória de Dados em Python II
+ - [ ] 1º Projeto: Análise Exploratória de Dados em Python II
  
- - [] Controle de Versão I
+ - [ ] Controle de Versão I
  
- - [] Controle de Versão II
+ - [ ] Controle de Versão II
  
- - [] Controle de Versão III
+ - [ ] Controle de Versão III
  
- - [] Fundamentos de Matemática
+ - [ ] Fundamentos de Matemática
  
- - [] Fundamentos de Estatística
+ - [ ] Fundamentos de Estatística
  
- - [] Aprendizado de Máquina - Fundamentos
+ - [ ] Aprendizado de Máquina - Fundamentos
  
- - [] Aprendizado de Máquina - Regressão
+ - [ ] Aprendizado de Máquina - Regressão
  
- - [] Aprendizado de Máquina - Classificação
+ - [ ] Aprendizado de Máquina - Classificação
  
- - [] Aprendizado de Máquina - Agrupamento
+ - [ ] Aprendizado de Máquina - Agrupamento
  
- - [] Séries Temporais
+ - [ ] Séries Temporais
  
- - [] SQL: Base de dados & Linguagem SQL
+ - [ ] SQL: Base de dados & Linguagem SQL
  
- - [] SQL: Trabalhando com Tabelas
+ - [ ] SQL: Trabalhando com Tabelas
  
- - [] Selecionando & Ordenando
+ - [ ] Selecionando & Ordenando
  
- - [] SQL: Filtrando & Seleção Condicional
+ - [ ] SQL: Filtrando & Seleção Condicional
  
- - [] SQL: Agregações
+ - [ ] SQL: Agregações
  
- - [] SQL: Trabalhando com Múltiplas Tabelas
+ - [ ] SQL: Trabalhando com Múltiplas Tabelas
  
- - [] SQL: Técnicas Avançadas
+ - [ ] SQL: Técnicas Avançadas
  
- - [] Projeto Final
+ - [ ] Projeto Final
   
- - [] Visualização interativa de dados
+ - [ ] Visualização interativa de dados
  
- - [] 3º Projeto: Dashboard de dados
+ - [ ] 3º Projeto: Dashboard de dados
  
- - [] Computação em Nuvem I
+ - [ ] Computação em Nuvem I
  
- - [] Computação em Nuvem II
+ - [ ] Computação em Nuvem II
  
- - [] Computação em Nuvem III Abertura
+ - [ ] Computação em Nuvem III Abertura
  
- - [] Big Data I - Processamento
+ - [ ] Big Data I - Processamento
  
- - [] Big Data II - Processamento
+ - [ ] Big Data II - Processamento
  
- - [] 4º Projeto: Pipeline de dados do Telegram I
+ - [ ] 4º Projeto: Pipeline de dados do Telegram I
  
- - [] 4° Projeto: Pipeline de dados nativo na nuvem II
+ - [ ] 4° Projeto: Pipeline de dados nativo na nuvem II
  
- - [] Projeto Final
+ - [ ] Projeto Final
