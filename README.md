@@ -34,7 +34,7 @@ Atividades realizadas durante o Curso de Analista de Dados na EBAC.
  
  - [x] Python: Módulos & Pacotes
  
- - [ ] Python: Tratamento de Erros
+ - [x] Python: Tratamento de Erros
  
  - [ ] Python: Scripting
  
