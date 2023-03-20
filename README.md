@@ -36,9 +36,9 @@ Atividades realizadas durante o Curso de Analista de Dados na EBAC.
  
  - [x] Python: Tratamento de Erros
  
- - [ ] Python: Scripting
+ - [x] Python: Scripting
  
- - [ ] Coleta de Dados I
+ - [x] Coleta de Dados I
  
  - [ ] Coleta de Dados II
  
