@@ -40,13 +40,13 @@ Atividades realizadas durante o Curso de Analista de Dados na EBAC.
  
  - [x] Coleta de Dados I
  
- - [ ] Coleta de Dados II
+ - [x] Coleta de Dados II
  
- - [ ] Data Wrangling I
+ - [x] Data Wrangling I
  
- - [ ] Data Wrangling II
+ - [x] Data Wrangling II
  
- - [ ] Visualização de dados I
+ - [] Visualização de dados I
  
  - [ ] Visualização de dados II
  
