@@ -46,7 +46,7 @@ Atividades realizadas durante o Curso de Analista de Dados na EBAC.
  
  - [x] Data Wrangling II
  
- - [] Visualização de dados I
+ - [ ] Visualização de dados I
  
  - [ ] Visualização de dados II
  
